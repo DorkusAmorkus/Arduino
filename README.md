@@ -1,11 +1,15 @@
 # Arduino
 //MIKE LOOK ARDUINO CODE THIS IS THE BUTTON
 /*
-  Button: Turns an LED on or off when pressed
+
+Your name: Elias Han
+Date: 9/28/18
+Project/assignment name: 'Button Boy'
+Description: Button: Turns an LED on or off when pressed
   13 = Pin for LED
   2 = Pin for Button
   
-  source:  http://www.arduino.cc/en/Tutorial/Button
+  credit:  http://www.arduino.cc/en/Tutorial/Button
 */
 
 
